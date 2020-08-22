@@ -4,7 +4,6 @@
 **kumarisk/kumarisk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
-I am working as a Software tester. I am uploading pratice demos of Selenium.
 
 - 🔭 I’m currently working on ... Zee Entertainment Enterprises Limited (ZEEL)
 - 🌱 I’m currently learning ... AWS & Devops
