@@ -12,5 +12,5 @@ I am working as a Software tester.I am uploading pratice demos of Selenium,Core 
 - 💬 Ask me about ... Anything(Mobiles,Laptops,Softwares.....etc)
 - 📫 How to reach me: ... Website(http://mytechtimes.cf)
 - 😄 Pronouns: ... He
-- ⚡ Fun fact: ... 
+- ⚡ Fun fact: ...  
 
