@@ -1,5 +1,5 @@
 ### Here is What I'm working On! 👋
-[!(Lot of Things to Share)](th.jpg)
+[![Lot of Ideas/Things to Share.](th.jpg)](http://mytechtimes.cf)
 
 
 
