@@ -4,14 +4,13 @@
 
 
 
-I am working as a Software tester.I am uploading pratice demos of Selenium,Core Java,Appium,CI/CD pipelines,Sikuli,Winium.
+I am working as a Software tester. I created this git account to share/futhure reference my practices on different tools like Selenium,Java,Appium,Devops,CI/CD pipe-lines,sikuli,Winium.In futhure i going to add some important tools like RPA(Blue Prism), AWS CI/CD scripts, Docker files, HTML, CSS, Linux Commands, SQL Querys.....etc
 
 - 🔭 I’m currently working on ... Zee Entertainment Enterprises Limited (ZEEL)
 - 🌱 I’m currently learning ... AWS & Devops
 - 👯 I’m looking to collaborate on ... Automation Software Testing & Manual Software Testing
 - 🤔 I’m looking for help with ... AWS & Devops
-- 💬 Ask me about ... Anything(Mobiles,Laptops,Softwares.....etc)
+- 💬 Ask me about ... Anything Good
 - 📫 How to reach me: ... Website(http://mytechtimes.cf)
 - 😄 Pronouns: ... He
 - ⚡ Fun fact: ...  
-
