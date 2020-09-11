@@ -29,7 +29,7 @@ I am working as a Software tester. I created this git account to share/futhure r
 <img align="left" alt="Jenkins" width="75px" src="https://user-images.githubusercontent.com/39759708/92866931-b3715780-f41d-11ea-87b5-21cf4445fc19.png" />
 <img align="left" alt="Docker" width="75px" src="https://user-images.githubusercontent.com/39759708/92867086-e0be0580-f41d-11ea-8928-4cdbc702f9e3.png" />
 <img align="left" alt="AWS" width="70px" src="https://user-images.githubusercontent.com/39759708/92867257-0c40f000-f41e-11ea-947f-1b078ed5709b.png" />
-<img align="left" alt="Blue Prism" width="70px" src="https://user-images.githubusercontent.com/39759708/92871066-2977bd80-f422-11ea-84eb-2f92e3fd7f56.png" />
+<img align="left" alt="Blue Prism" width="85px" src="https://user-images.githubusercontent.com/39759708/92871066-2977bd80-f422-11ea-84eb-2f92e3fd7f56.png" />
 <img align="left" alt="Appium" width="70px" src="https://user-images.githubusercontent.com/39759708/92871259-57f59880-f422-11ea-945a-5ce875723eac.png" />
 <img align="left" alt="Linux" width="70px" src="https://user-images.githubusercontent.com/39759708/92870609-a8b8c180-f421-11ea-9b43-75701c341499.png" />
 <img align="left" alt="HTML5" width="45px" src="https://user-images.githubusercontent.com/39759708/92867492-532ee580-f41e-11ea-8d8a-30dd97da0840.png" />
