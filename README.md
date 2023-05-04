@@ -5,7 +5,7 @@
 
 ### Here is What I'm working On! 👋
 
-I am working as a Software tester. I created this git account to share/futhure reference my practices on different tools like Selenium,Java,Appium,Devops,CI/CD pipe-lines,sikuli,Winium.In futhure i going to add some important tools like RPA(Blue Prism), AWS CI/CD scripts, Docker files, HTML, CSS, Linux Commands, SQL Querys.....etc
+I am working as a Software tester. I created this git account to share/futhure reference of my practices on different tools like Selenium,Java,Appium,Devops,CI/CD pipe-lines,sikuli,Winium.In futhure I going to add some important tools like RPA(Blue Prism), AWS CI/CD scripts, Docker files, HTML, CSS, Linux Commands, SQL Querys.....etc
 
 - 🔭 I’m currently working in ... Wipro Limt.
 - 🌱 I’m currently learning ... AWS & Devops
